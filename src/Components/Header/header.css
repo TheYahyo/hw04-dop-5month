@@ -1,0 +1,11 @@
+.header {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    background-color: #252525;
+}
+.header a{
+    margin-left: 200px;
+    color: aliceblue;
+    text-decoration: none;
+    text-align: center;
+}
